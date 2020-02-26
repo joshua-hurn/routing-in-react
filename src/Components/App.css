@@ -1,0 +1,20 @@
+body {
+  background-color: #00adef;
+}
+
+nav {
+  font-size: 2em;
+}
+
+h2 {
+  display: inline;
+}
+
+.main-switch {
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
+#ghibli-logo {
+  max-width: 8em;
+}
